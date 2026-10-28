@@ -12,12 +12,11 @@
 
 ### About me
 
-- 🏦 **Senior Software Engineer at BRAC Bank**, Technology Division. I work on **Astha**, the bank's digital banking app (customer onboarding and system integration).
-- ⚙️ **8+ years** building backend and full-stack systems: REST APIs, event-driven microservices, and payment and banking integrations.
-- 🚗 Before that I built backend services for the **OBhai** ride-sharing platform at **MGH Group**.
-- 📱 I'm currently helping move a large banking app from **Cordova to React Native**.
-- 🌱 Currently going deeper into **Kafka, Kubernetes and distributed-systems design**.
-- 🤝 **Open to new opportunities**, including remote roles and roles abroad.
+- **Senior Software Engineer at BRAC Bank**, Technology Division. I work on **Astha**, the bank's digital banking app (customer onboarding and system integration).
+- **8+ years** building backend and full-stack systems: REST APIs, event-driven microservices, and payment and banking integrations.
+- Before that I built backend services for the **OBhai** ride-sharing platform at **MGH Group**.
+- Currently going deeper into **Kafka, Kubernetes and distributed-systems design**.
+- **Open to new opportunities**, including remote roles and roles abroad.
 
 ### Tech stack
 
